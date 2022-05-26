@@ -29,10 +29,10 @@ Os casos de testes principais a serem executados no software deverão ser docume
 ### ENTREGAS E APRESENTAÇÕES
 Serão 4 entregas de 15, 20, 20, 45 pontos, cada avaliada com apresentação dos alunos em aula síncrona. As datas das apresentações serão 20/12, 28/01, 25/02, 01/04.
 
-1. Entrega: 1) Concepção de um sistema a escolha do grupo. (texto descrevendo o sistema concebido) 2) Definição da ferramenta UML a ser utilizada.  3) Modelo de Casos de Uso Preliminar do sistema apresentado no Github.
-2. Entrega: 1) Revisão da concepção e estudo de viabilidade.  Especificação dos requisitos completa.
-3. Entrega: 1) Revisão dos artefatos anteriores 2) Projeto Arquitetural Preliminar
-4. Entrega: Trabalho completo.
+- [ ] Entrega: 1) Concepção de um sistema a escolha do grupo. (texto descrevendo o sistema concebido) 2) Definição da ferramenta UML a ser utilizada.  3) Modelo de Casos de Uso Preliminar do sistema apresentado no Github.
+- [ ] Entrega: 2) Revisão da concepção e estudo de viabilidade.  Especificação dos requisitos completa.
+- [ ] Entrega: 3) Revisão dos artefatos anteriores 2) Projeto Arquitetural Preliminar
+- [ ] Entrega: Trabalho completo.
 
 
 ## [LucidChart](https://lucid.app/lucidchart/7703c09f-f9d9-42e3-b982-4a62aae113f6/edit?invitationId=inv_991c7e31-8145-490e-b64a-1124189aebff&page=.Q4MUjXso07N#)
